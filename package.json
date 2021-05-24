@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install",
-    "hooks:pre-commit": "node ./.husky/pre-commit.js"
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
